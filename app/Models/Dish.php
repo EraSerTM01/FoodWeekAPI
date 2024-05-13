@@ -12,11 +12,6 @@ class Dish extends Model
 {
     use HasFactory;
 
-    public function products(): BelongsToMany
-    {
-        return $this->belongsToMany(Product::class);
-    }
-
     public function menus(): BelongsToMany
     {
         return $this->belongsToMany(Menu::class);
