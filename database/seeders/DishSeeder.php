@@ -43,7 +43,7 @@ class DishSeeder extends Seeder
                 'recipe_link' => 'https://www.unian.ua/recipes/holiday-menus/supervkusnyy-novogodniy-salat-drakon-elementarnyy-recept-12463344.html'
             ],
             [
-                'title' => 'Рулет "Herring under a fur coat',
+                'title' => 'Roll "Herring under a fur coat',
                 'recipe_link' => 'https://www.unian.ua/recipes/salads/salads-with-fish-and-seafood/seledka-pod-shuboy-rulet-vkusnyy-recept-12474897.html'
             ],
             [
